@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "login.feign.client",
+    "type": "java.lang.String",
+    "description": "A description for 'login.feign.client'"
+  },
+  {
+    "name": "login.feign.name",
+    "type": "java.lang.String",
+    "description": "A description for 'login.feign.name'"
+  }
+]}
